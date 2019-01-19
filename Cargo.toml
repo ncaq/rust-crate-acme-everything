@@ -3,5 +3,6 @@ name = "rust-crate-acme-everything"
 version = "0.1.0"
 authors = ["ncaq <ncaq@ncaq.net>"]
 edition = "2018"
+repository = "https://github.com/ncaq/rust-crate-acme-everything"
 
 [dependencies]
